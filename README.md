@@ -1,2 +1,2 @@
-# MiniTwiteer
+# MiniTwitter
 Web app like Twitter
